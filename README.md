@@ -1,4 +1,4 @@
-# Amazon-2021-Customer-s-Analysis
+# Amazon-2021-Customer-Analysis
 Interactive Dashboard of 2021 Customer analysis for North America region 
 
 The Tableau dashboard for Amazon's 2021 Customer Analysis provides a comprehensive overview of customer behaviors and trends throughout the year. Here's a breakdown of its key features and components:
