@@ -32,6 +32,7 @@ Interactive Filters:
 
 Options to filter data by time period, product category, or customer segment for more granular insights.
 Drill-down capabilities for detailed exploration of specific trends or anomalies.
+
 Insights Gained:
 Understanding which demographics are driving sales and which products resonate most.
 Identifying opportunities for targeted marketing strategies based on customer preferences.
